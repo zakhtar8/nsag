@@ -1,0 +1,6 @@
+geopandas
+streamlit>=1.25.0
+folium
+alphashape
+streamlit_folium
+earthengine-api
